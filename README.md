@@ -34,8 +34,8 @@ To set up the project, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd goapplication
+git clone https://github.com/pratikdevelop/go-next-app
+cd go-next-app
 ```
 
 ### 2. Backend Setup
